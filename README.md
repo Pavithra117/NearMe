@@ -81,16 +81,15 @@ viswabharathi.html
         <P>Sri Viswabharathi Matriculation Higher Secondary School is an excellent choice for students seeking highly specialized education. The school provides a top-notch learning environment, dedicated faculty, and a strong focus on academic excellence. With its comprehensive curriculum and state-of-the-art facilities, it`s no wonder why this institution is highly regarded in the field of education.</P>
     </body>
 </html>
+```
 ## OUTPUT
-c:\Users\pavit\OneDrive\Pictures\Screenshots\Screenshot (13).png
-c:\Users\pavit\OneDrive\Pictures\Screenshots\Screenshot (10).png
-c:\Users\pavit\OneDrive\Pictures\Screenshots\Screenshot (11).png
-c:\Users\pavit\OneDrive\Pictures\Screenshots\Screenshot (12).png
-c:\Users\pavit\OneDrive\Pictures\Screenshots\Screenshot (9).png
-c:\Users\pavit\OneDrive\Pictures\Screenshots\Screenshot (8).png
-
-
-
+![
+](<Screenshot (13).png>)
+](<Screenshot (12).png>)
+](<Screenshot (11).png>)
+](<Screenshot (10).png>)
+![alt text](<Screenshot (9).png>)
+![alt text](<Screenshot (8).png>)
 
 
 
