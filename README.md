@@ -85,11 +85,11 @@ viswabharathi.html
 ## OUTPUT
 ![
 ](<Screenshot (13).png>)
-](<Screenshot (12).png>)
-](<Screenshot (11).png>)
-](<Screenshot (10).png>)
 ![alt text](<Screenshot (9).png>)
 ![alt text](<Screenshot (8).png>)
+![alt text](<Screenshot (12)-1.png>)
+![alt text](<Screenshot (10)-1.png>)
+![alt text](<Screenshot (11)-2.png>)
 
 
 
